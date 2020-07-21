@@ -18,7 +18,7 @@
     "body-scroll-lock": "^3.0.3",
     "classnames": "^2.2.6",
     "dotenv": "^8.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "markdown-to-jsx": "^6.11.4",
     "next": "^9.4.2",
     "next-redux-wrapper": "^6.0.0",
